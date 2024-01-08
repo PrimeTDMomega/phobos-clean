@@ -1,2 +1,2 @@
-# phobos-clean
-Clean releases of phobos client since GoPro's account was terminated.
+# Phobos Client Clean
+Clean releases of Phobos Client
